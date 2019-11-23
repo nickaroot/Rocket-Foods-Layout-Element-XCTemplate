@@ -94,7 +94,7 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>elements</string>
+			<string>Elements</string>
 			<key>Name</key>
 			<string>Also create file with Elements</string>
 			<key>Description</key>
