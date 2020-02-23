@@ -9,8 +9,6 @@ class ___VARIABLE_productName___: RFCellNode {
     override init() {
         super.init()
         
-        automaticallyManagesSubnodes = true
-        
         //    selectionStyle = .none
     }
 }

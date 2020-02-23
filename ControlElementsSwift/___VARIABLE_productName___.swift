@@ -8,7 +8,5 @@ class ___VARIABLE_productName___: RFControlNode {
     
     override init() {
         super.init()
-        
-        automaticallyManagesSubnodes = true
     }
 }

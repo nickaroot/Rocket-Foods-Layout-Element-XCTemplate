@@ -9,7 +9,6 @@ class ___VARIABLE_productName___: RFScrollNode {
     override init() {
         super.init()
         
-        automaticallyManagesSubnodes = true
         automaticallyManagesContentSize = true
         
         self.view.alwaysBounceVertical = true

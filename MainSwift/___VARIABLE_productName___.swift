@@ -9,6 +9,6 @@ class ___VARIABLE_productName___: RFMainNode {
     required init() {
         super.init()
         
-        automaticallyManagesSubnodes = true
+        backgroundColor = Constants.backgroundColor
     }
 }

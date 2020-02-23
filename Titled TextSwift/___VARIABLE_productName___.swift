@@ -9,8 +9,6 @@ class ___VARIABLE_productName___: RFEditableTextNode, UITextViewDelegate {
     override init() {
         super.init()
         
-        automaticallyManagesSubnodes = true
-        
         textView.delegate = self
     }
     
